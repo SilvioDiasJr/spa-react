@@ -1,0 +1,9 @@
+.sobre {
+  width: 100%;
+  height: 600px;
+  background-color: #DDD;
+}
+
+.sobre h1 {
+  margin: 0px;
+}

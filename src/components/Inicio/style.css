@@ -1,0 +1,9 @@
+.inicio {
+  width: 100%;
+  height: 600px;
+  background-color: #0000FF;
+}
+
+.inicio h1 {
+  margin: 0px;
+}
